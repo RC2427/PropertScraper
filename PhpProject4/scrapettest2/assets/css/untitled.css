@@ -1,0 +1,72 @@
+.container.What {
+  text-align: left;
+  padding: 90px;
+}
+
+#welcome {
+  max-width: 1250px;
+  font-size: 25px;
+  margin: auto;
+}
+
+@media (min-width: 300px) {
+  #welcome {
+    padding: 30px;
+    margin: auto;
+    margin-top: 25px;
+  }
+}
+
+#TopDev {
+  font-size: 46px;
+  align-content: space-evenly;
+}
+
+#mainTitle {
+  font-size: 85px;
+}
+
+#mainslog {
+  font-size: 50px;
+}
+
+#ScrapeDesc {
+  font-size: 50px;
+  margin: auto;
+}
+
+#ScrapeDesc-1 {
+}
+
+.container.Dev {
+  margin: auto;
+}
+
+#godimg {
+  max-height: 240px;
+  align-items: center;
+}
+
+#Devrow {
+  padding: 20px;
+  margin: auto;
+}
+
+#kolteimg {
+  max-height: 340px;
+}
+
+#koltimg {
+  max-height: 240px;
+}
+
+#bri {
+  max-height: 240px;
+}
+
+.Devdesc {
+  font-size: 17px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+

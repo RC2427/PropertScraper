@@ -1,0 +1,109 @@
+.dropdown-search-input {
+  padding: 20px;
+  margin-top: -6px;
+  border: 0;
+  border-radius: 0;
+  background: #f1f1f1;
+}
+
+#droplist {
+  padding-bottom: 6px;
+}
+
+.btn.btn-primary.dropdown-toggle {
+}
+
+#dropmina {
+  padding-bottom: 3px;
+  margin-bottom: 0px;
+}
+
+#dropmina {
+  margin: auto;
+  padding: 2px;
+  border-color: transparent;
+}
+
+#searchcont {
+  font-size: 25px;
+}
+
+#findIcon {
+  padding-right: 5px;
+}
+
+#findicon {
+  padding: 5px;
+}
+
+#cardcont {
+  padding: 10px;
+  max-width: 1250px;
+}
+
+#carddesc {
+  border-color: rgb(8,8,8);
+}
+
+#cardutt {
+  text-align: center;
+  /*font-size: x-large;*/
+  background-color: rgb(203,139,203);
+}
+
+#formgrp {
+  align-items: center;
+}
+
+#slectmain {
+  max-width: 144px;
+  background-color: #b586c1;
+  border-color: transparent;
+}
+
+#devdesc1 {
+  max-width: 1250px;
+}
+
+#goimg {
+  max-height: 300px;
+  max-width: 300px;
+  align-self: center;
+}
+
+#kolimg {
+  max-height: 300px;
+  align-self: center;
+  max-width: 300px;
+}
+
+#briimg {
+  max-height: 300px;
+  max-width: 300px;
+  align-self: center;
+}
+
+#devread {
+  background-color: pruple;
+}
+
+#footrow {
+  max-width: 1250px;
+  align-self: center;
+  margin: auto;
+}
+
+#mainfrm {
+  margin-left: 30px;
+}
+
+@media (min-width: 300px) {
+  #mainfrm {
+    max-height: 400px;
+  }
+}
+
+.card-group {
+  margin: auto;
+}
+

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <div>TODO write content</div>
+    <h4 id= "t1">NEW TITLE</h4>
+    <script>
+        function loadJSON(callback) {   
+            var xobj = new XMLHttpRequest();
+            xobj.overrideMimeType("application/json");
+            xobj.open('GET','data.json', true); 
+            xobj.onreadystatechange = function () {
+            if (xobj.readyState == 4 && xobj.status == "200") {
+                // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+                callback(xobj.responseText);
+            }
+         };
+        xobj.send(null);  
+    }
+    </script>
+    <script type="text/JavaScript">
+            var actual_JSON;
+            loadJSON(function(response) {
+                // Parse JSON string into object
+                actual_JSON = JSON.parse(response);
+                var h_tag = document.getElementById("t1");
+                h_tag.innerHTML = actual_JSON[0].prop_title;
+            });    
+    </script>
+    </body>
+</html>
