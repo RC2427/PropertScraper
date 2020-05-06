@@ -1,0 +1,9 @@
+title_main, propid, property_price, prop_desc, prop_desc, ref_link
+## propertywala.com
+"//article[@id = 'pageContent']//h4/a"
+"//article[@id = 'pageContent']//h4/a"
+"//article[@id = 'pageContent']//div[@class = 'propertyPrice']"
+"//article[@id = 'pageContent']//div[@class = 'summary']/ul/li[@class = 'description']"
+"//article[@id = 'pageContent']//div[@class = 'summary']/ul/li[@class = 'features']/span[@class = 'areaUnit']"
+"//article[@id = 'pageContent']//div[@class = 'summary']/figure/a/img"
+"https://www.propertywala.com"

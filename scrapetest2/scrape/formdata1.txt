@@ -1,0 +1,196 @@
+['Pune', '2', '15000', '25000', 'Owner', ' rent']
+pune_maharashtra
+============================= Initialising Spider ================================
+['Pune', '2', '15000', '25000', 'Owner', ' rent']
+pune_maharashtra
+['Pune', '2', '15000', '25000', 'Owner', ' rent']
+ rent
+parsing Started =======================-------------------------------=======================
+https://www.propertywala.com/properties/type-residential_apartment_flat/for-rent/location-pune_maharashtra/bedrooms-2
+yielding items
+==============Pipeline===================
+93.83 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+107.77 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+83.61 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+97.55 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+94.3 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+84.08 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+78.04 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+46.45 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+72.46 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+61.41 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+74.32 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+850 SqFeet
+yielding items
+==============Pipeline===================
+83.61 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+96.15 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+125.98 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+78.97 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+85.94 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+88.26 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+85.47 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+76.18 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+76.37 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+74.32 SqMeters
+sq_feet conversion
+yielding items
+==============Pipeline===================
+107.12 SqMeters
+sq_feet conversion
+parsing ended =======================-------------------------------=======================
+parsing Started =======================-------------------------------=======================
+https://www.magicbricks.com/property-for-rent/residential-real-estate?bedroom=2&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment,Residential-House,Villa&cityName=Pune&BudgetMin=15000&BudgetMax=25000Lacs
+yielding items
+==============Pipeline===================
+950 sqft
+yielding items
+==============Pipeline===================
+1080 sqft
+yielding items
+==============Pipeline===================
+1050 sqft
+yielding items
+==============Pipeline===================
+1372 sqft
+yielding items
+==============Pipeline===================
+1100 sqft
+yielding items
+==============Pipeline===================
+1300 sqft
+yielding items
+==============Pipeline===================
+1000 sqft
+yielding items
+==============Pipeline===================
+1150 sqft
+yielding items
+==============Pipeline===================
+996 sqft
+yielding items
+==============Pipeline===================
+1000 sqft
+yielding items
+==============Pipeline===================
+1319 sqft
+yielding items
+==============Pipeline===================
+780 sqft
+yielding items
+==============Pipeline===================
+1250 sqft
+yielding items
+==============Pipeline===================
+1015 sqft
+yielding items
+==============Pipeline===================
+1250 sqft
+yielding items
+==============Pipeline===================
+1200 sqft
+yielding items
+==============Pipeline===================
+1123 sqft
+yielding items
+==============Pipeline===================
+1255 sqft
+yielding items
+==============Pipeline===================
+1221 sqft
+yielding items
+==============Pipeline===================
+1300 sqft
+yielding items
+==============Pipeline===================
+1100 sqft
+yielding items
+==============Pipeline===================
+1200 sqft
+yielding items
+==============Pipeline===================
+1750 sqft
+yielding items
+==============Pipeline===================
+1100 sqft
+yielding items
+==============Pipeline===================
+822 sqft
+yielding items
+==============Pipeline===================
+980 sqft
+yielding items
+==============Pipeline===================
+1120 sqft
+yielding items
+==============Pipeline===================
+1000 sqft
+yielding items
+==============Pipeline===================
+1075 sqft
+yielding items
+==============Pipeline===================
+1045 sqft
+parsing ended =======================-------------------------------=======================
+============================= Starting Spider ================================
+=============================  Spider Closed ================================
